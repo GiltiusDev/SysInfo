@@ -12,5 +12,5 @@ This software can display
 
 how to run:
 -git clone https://github.com/GiltiusDev/SysInfo
-pip install requirements.txt
+-pip install requirements.txt
 python main.py
